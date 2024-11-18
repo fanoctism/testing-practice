@@ -1,5 +1,3 @@
-# Create the README.md content
-readme_content = """
 # **QA Portfolio Project**
 
 Welcome to my QA Portfolio repository! This project showcases my skills in **manual testing**, **test automation**, and **bug reporting**, using best practices and tools for quality assurance.
