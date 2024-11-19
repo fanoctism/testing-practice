@@ -61,7 +61,7 @@ This repository demonstrates my capabilities in:
 This repository contains Postman tests for the BBC Weather API.
 
 ## View Postman Collection
-You can find the Postman collection for these tests [here](BBC_Website_API_Tests.postman_collection.json[BBC Website API Tests.postman_collection.json](https://github.com/fanoctism/testing-practice/blob/main/API%20Testing/BBC%20Weather%20API%20Testing.postman_collection.json)).
+You can find the Postman collection for these tests [here](https://go.postman.co/workspace/b4fe34fb-2b2f-473a-9b11-126b12a561ea/documentation/35342416-187bd2bf-07f3-4a5f-b086-5939b2f35b2b?entity=request-cf69d7f6-689e-4664-834a-38f41c031912).
 
 ## Postman Documentation
 You can view the API documentation for the tests [here](https://go.postman.co/workspace/b4fe34fb-2b2f-473a-9b11-126b12a561ea/documentation/35342416-187bd2bf-07f3-4a5f-b086-5939b2f35b2b?entity=request-cf69d7f6-689e-4664-834a-38f41c031912).
