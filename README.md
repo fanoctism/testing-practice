@@ -57,7 +57,7 @@ This repository demonstrates my capabilities in:
    pip install selenium
    python login_test.py
    
-# BBC Weather API Tests
+# API Testing
 
 This repository contains Postman tests for the BBC Weather API.
 
