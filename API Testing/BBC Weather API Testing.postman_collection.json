@@ -1,0 +1,20 @@
+{
+	"info": {
+		"_postman_id": "187bd2bf-07f3-4a5f-b086-5939b2f35b2b",
+		"name": "BBC Website API Tests",
+		"description": "This collection contains requests to test the BBC Weather API. It checks the status code, validates the format of the response, and verifies specific data points such as the location name and temperature.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "35342416"
+	},
+	"item": [
+		{
+			"name": "BBC Weather API",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"description": "This request fetches weather data for the city of London using the BBC Weather API. It validates the status code and checks that the response is in JSON format."
+			},
+			"response": []
+		}
+	]
+}
