@@ -36,6 +36,8 @@ This repository demonstrates my capabilities in:
   - Location: `manual-testing/bug-reports/`
 - **Screenshots**: Screenshots illustrating bugs and issues.  
   - Location: `manual-testing/screenshots/`
+- **Navigation tests**: Links and buttons lead to the correct pages.  
+  - Location: `manual-testing/navigation_tests_BBC.xlsx`
 
 ---
 
