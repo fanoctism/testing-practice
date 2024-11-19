@@ -63,7 +63,7 @@ This repository contains Postman tests for the BBC Weather API.
 
 ## View Postman Collection
 
-You can find the Postman collection for these tests [here](BBC_Weather_API_Testing.postman_collection.json).
+You can find the Postman collection for these tests [here](/API%20Testing/BBC_Weather_API_Testing.postman_collection.json).
 
 ## Postman Documentation
 
