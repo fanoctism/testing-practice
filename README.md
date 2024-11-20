@@ -81,7 +81,7 @@ Before running the tests, make sure you have the following installed:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/fanoctism/testing-practice/tree/1330f2409c4dc8482a21bfa1874d5521464555f2/Selenium
    cd your-repo
 2. Set up a virtual environment::
    ```bash
